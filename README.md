@@ -26,8 +26,6 @@ python -m pytest -v
 
 ### 📈 Generate HTML Report
 
-```bash
-python -m pytest --html=report.html --self-contained-html
-```
+<img width="857" height="664" alt="image" src="https://github.com/user-attachments/assets/227fca95-f32c-4c69-a345-cb4b3e11c920" />
 
 **API Used:** [JSONPlaceholder](https://jsonplaceholder.typicode.com/) — a public practice API with simulated write operations.
